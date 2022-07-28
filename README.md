@@ -1,2 +1,2 @@
-# PullRequestPlayGround
-This is a playground for pull request exercise.
+# PlayGround
+This is a playground.
